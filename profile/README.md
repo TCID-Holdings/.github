@@ -1,104 +1,251 @@
-🏦 M5Bank & M5Capital Ecosystem
-Constitutional-Grade Financial Sovereignty for All Humanity
-License Blockchain Status
+<p align="left">
+  <img alt="M5Bank" src="https://img.shields.io/badge/M5Bank-Constitutional--Grade-111827?style=for-the-badge" />
+  <img alt="M5Capital" src="https://img.shields.io/badge/M5Capital-Sovereign%20Infrastructure-111827?style=for-the-badge" />
+  <img alt="ICSN" src="https://img.shields.io/badge/ICSN-Standards%20%26%20Naming-111827?style=for-the-badge" />
+  <img alt="TitleChain" src="https://img.shields.io/badge/TitleChain-Registry%20%2B%20TCID-111827?style=for-the-badge" />
+  <img alt="ENSv2" src="https://img.shields.io/badge/ICANN%E2%86%94ENSv2-Universal%20Resolver-111827?style=for-the-badge" />
+  <img alt="Ethereum L1" src="https://img.shields.io/badge/Ethereum-L1%20Anchor%20Path-111827?style=for-the-badge" />
+</p>
 
-🌍 The BankofMe Revolution
-M5Bank represents the world's first constitutional-grade financial sovereignty platform, extending Sir Tim Berners-Lee's decentralized web vision to create banking democracy for every human being. We're not just building another fintech platform—we're democratizing financial sovereignty itself.
+# M5Bank & M5Capital Ecosystem
+## ICSN Standards • ICANN→ENSv2 Naming • TitleChain Registry • Constitutional-Grade Financial Sovereignty
 
-🚀 What Makes Us Revolutionary:
-319+ Intelligent M5Agents across 13 revenue wallets
-Constitutional Protection is built into every account
-The Big Dream is to give 2 Billion Unbanked people sovereign financial access
-Your Bank, Your Rules - True ownership of your financial identity
-🏛️ Our Mission: Financial Sovereignty as a Human Right
-We believe every human deserves:
+M5Bank is a sovereign financial infrastructure stack that unifies:
+- **Human-first identity + vault custody**
+- **Tokenized real-world assets + compliant settlement**
+- **ICANN DNS + ENSv2 naming under a single hierarchical standard**
+- **Registry-backed provenance for identity, assets, and contracts**
 
-🌟 Constitutional banking protection regardless of geography or wealth
-🆔 Sovereign digital identity through $username@bankof.me addresses (default to currency of state or nation)
-🔓 Freedom from traditional banking barriers and discrimination
-🌍 Universal access to decentralized finance and constitutional rights
-🏦 Your private bank with built-in constitutional protections 
-🛠️ Why We Choose Sovereign Development
-Beyond Traditional Git Platforms
-We don't just build on GitHub or GitLab—we believe in sovereign rights for code, data, and identity:
+Canonical governance, standards, and registry authority:
+- **https://titlechainfoundation.org**
 
-🌐 RADworks Support: Contributing to sovereign code collaboration
-🤖 Open Source LLMs: Supporting federated AI for privacy protection
-🔐 Sovereign Data: Ensuring privacy, protection, and global access
-🌏 Cultural Respect: Supporting communities, states, and nations aligned with M5 values
-⚖️ Constitutional Rights: Built into every line of code and every transaction
-🏗️ The M5Capital Ecosystem
-Core Components:
-🏦 BankofMe Platform: Constitutional banking for every human
-🔗 TitleChain Foundation Decentralized Registry: Sovereign identity and asset management
-🌊 Cosmos Hub Framework: Independent sovereign blockchains with IBC interoperability
-   Bitcoin Integration: LNURL support, BTC notary rewards
-🧠 M5BankLLM: Open-source AI with 1,000+ language support
-🛡️ Gk8 Galaxy Security: Unlimited MPC with zero digital input protection
-Revolutionary Features:
-🎯 319+ Intelligent M5Agents managing autonomous financial operations for you, your coop, your business, or bank
-💰 LAVA + USAT Dual-Token Economics for sustainable growth
-🌐 W3C Foundation Partnership extending Solid Pod technology
-🇨🇭 Swiss Research Collaboration with ETH Zurich and EPFL
-⚡ True DeFi Infrastructure - your cloud, your rules, not AWS/Google
-🤝 How to Join the Revolution
-🌟 Get on the Wait List For Developers:
-In the Future You Will Copy# Clone the constitutional future
+---
+
+## What This Repo Is
+This repository is the public gateway for:
+- ICSN-aligned standards, templates, and reference implementations
+- ICANN→ENSv2 naming + resolver patterns
+- TitleChain registry interfaces (TCID, proof-of-title events, contract provenance)
+- Git3Hub onboarding workflows (public + private contract pools)
+
+> The sovereign vault is the system of record.  
+> Git3Hub is the collaboration + distribution layer.
+
+---
+
+## Governance & Standards
+
+### ICSN — Internet Corporation for Sovereign Networks
+ICSN defines the global standards layer for sovereign naming, classification, governance roles, and cross-jurisdiction interoperability across:
+- nations
+- states/provinces
+- tribes/indigenous nations
+- cities
+- universities/institutions
+- enterprises/cooperatives
+- individuals
+
+### TitleChain Foundation
+TitleChain Foundation stewards the registry authority:
+- identity credentials (TCID)
+- title/contract provenance
+- policy gates for institutional participation
+- dispute/attestation frameworks
+- root namespace policy alignment
+
+### M5Capital
+M5Capital structures capital formation, private pools, and index pathways that fund and scale sovereign infrastructure deployments.
+
+---
+
+## The Naming Breakthrough: ICANN → ENSv2 (Hierarchy + Roles + Universal Resolver)
+
+We bridge **Web2 identity** (ICANN/DNS) and **Web3 identity** (ENSv2) under one governance standard so users can operate seamlessly with:
+- `bankof.me` (human-friendly gateway)
+- ENS names (cryptographic routing + ownership)
+- a single sovereign vault identity behind both
+
+### Dual Identity Support (Same Authority, Two Interfaces)
+**Web2 format**
+- `username@bankof.me`
+
+**ENS format**
+- `username.bankofme.eth`
+
+Both resolve to the same:
+- sovereign vault identity
+- wallet authority
+- registry record(s)
+- contract + payment routing
+
+---
+
+## ICSN Hierarchical Naming Convention (Nation → State → Tribe → Institution → Entity → Person)
+
+ICSN naming is role-based and hierarchical. Authority is explicit at every layer.
+
+### Root Jurisdictions (Examples)
+**Nation chain**
+- `unitedstateschain.eth`
+- `bhutanchain.eth`
+- `canadachain.eth`
+
+**State / province chain**
+- `californiachain.eth`
+- `wyomingchain.eth`
+
+**Tribal / indigenous sovereign naming (patterns)**
+- `<tribe>.unitedstateschain.eth`
+- `<tribe>.californiachain.eth` *(when appropriate to local governance model)*
+
+**Institution / university (patterns)**
+- `<institution>.californiachain.eth`
+- `<institution>.<nationchain>.eth`
+
+**Programs / platforms under jurisdiction (patterns)**
+- `bankofme.<jurisdiction>.eth`
+- `bankofbiz.<jurisdiction>.eth`
+- `bankofus.<jurisdiction>.eth`
+- `m5gov.<jurisdiction>.eth`
+
+**Entities + people (patterns)**
+- `<entity>.bankofbiz.<jurisdiction>.eth`
+- `<username>.bankofme.<jurisdiction>.eth`
+
+> These are standards/patterns. Exact namespace issuance is governed by ICSN roles and TitleChain registry policy.
+
+---
+
+## Roles System (Delegation & Authority)
+
+ICSN naming is not flat. It is delegated via certified roles:
+
+- **Root Steward**: ICSN standards + TitleChain namespace policy
+- **Sovereign Operators**: nation-chain operators (top-level jurisdiction governance)
+- **Sub-Sovereign Operators**: states/provinces/tribes (delegated issuance authority)
+- **Institution Operators**: universities, agencies, cooperatives (credentialed)
+- **Entity Admins**: verified businesses/orgs (scope-limited issuance)
+- **Individuals**: self-owned identity (vault-controlled)
+
+Roles determine:
+- subname issuance rights
+- resolver configuration permissions
+- contract publishing permissions
+- compliance visibility tiers
+- upgrade + recovery pathways
+
+---
+
+## Universal Resolver (Seamless Web2/Web3 Resolution)
+
+Resolution path (conceptual):
+User/App → **Universal Resolver** → ENS records → Vault Identity → Routing → Execution
+
+This enables:
+- wallet compatibility across ecosystems
+- consistent name resolution across L1/L2
+- institutional routing without breaking user sovereignty
+- future-safe identity paths
+
+---
+
+## Ethereum L1 Anchor Path (Seamless Upgrade, No Broken Names)
+
+Canonical identity and naming authority remain **Ethereum L1 compatible**:
+- execution can occur on L2s for cost/throughput
+- naming + canonical resolution remains upgrade-safe and broadly interoperable
+- no forced migrations
+- no namespace fragmentation
+
+---
+
+## Technical Architecture (High Level)
+
+### Vault-First (Non-Bypassable)
+All sensitive operations flow:
+User → Sovereign Vault → Policy Engine → Execution Layer
+
+- human-in-the-loop cannot be bypassed
+- vault retains canonical records, logs, and exports
+- external processors/models are treated as stateless unless explicitly mirrored
+
+### Registry + Provenance
+TitleChain registry binds:
+- identity credentials (TCID)
+- titles/contracts
+- governance events
+- release provenance for code and contract artifacts
+
+### Settlement Layer (Reference Model)
+- delivery-versus-payment patterns for compliant exchange
+- escrow/atomic execution patterns where applicable
+- jurisdiction-aware settlement preferences
+
+---
+
+## Git3Hub: Sovereign Code & Contract Vault
+
+We are launching **Git3Hub** as the sovereign collaboration layer for:
+- code repositories
+- contract templates
+- verified agreement libraries
+- credentialed partner releases
+
+Git3Hub supports two contract pools:
+
+### Public Pool (Gift-to-World)
+- open standards
+- public-good templates
+- forkable contracts with attribution + provenance
+
+### Private Pool (Credentialed Access)
+- token-gated or credential-gated repos
+- enterprise licensing libraries
+- investor/member-only releases
+- institution-grade audit trails
+
+---
+
+## Move Your IP Into Your Sovereign Bank Account (Onboarding Flow)
+
+When Git3Hub onboarding opens, creators will be able to:
+
+1) Claim identity  
+- `username@bankof.me` and/or ENS identity
+
+2) Create an IP Vault  
+- canonical ownership record
+
+3) Register the work  
+- code / contracts / models / datasets / media  
+- receive registry provenance references
+
+4) Choose distribution  
+- Public Pool or Private Pool
+
+5) Set licensing + economics  
+- gift, one-time license, subscription, usage-based fees, royalties, partner splits
+
+6) Publish + route payments  
+- ENS naming can serve as identity + payment routing + contract addressability
+
+---
+
+## Monetization Options (Pick One or Combine)
+- Gift-to-world
+- One-time license
+- Subscription access
+- Per-use execution fees
+- Royalties on downstream usage
+- Partner wallet splits
+- Cooperative pool revenue sharing
+
+---
+
+## How to Join
+
+### Developers
+```bash
+# Placeholder — update to your canonical Git3Hub endpoint when live
 git clone https://sovereign-code.m5bank.dev/M5Capital/M5Bank
 cd M5Bank
-# Initialize your sovereign development environment
-# Deploy your first constitutional agent
-👥 For Community Members:
-🏦 Open a BankofMe Account: Get your constitutional bank at bankof.me, bankof.us, bankof.business, M5Bank, M5gov account
-🆔 Claim Your Identity: Reserve your $username@bankof.me sovereign money address
-💼 Join M5Capital: Participate in the dual-token economy as a member on the network (LAVA + USAT)
-🌍 Support the Mission: Help bring financial sovereignty to 2B unbanked humans
-🎓 For Researchers & Institutions:
-📚 Access M5BankLLM: Open-source AI trained on Swiss "Alps" supercomputer
-🔬 Contribute to Research: Constitutional finance and sovereign identity research
-🤝 Partnership Opportunities: Academic and institutional collaboration
-📖 Coming Soon Documentation: docs.m5bank.dev
-📈 Impact & Vision
-🌍 Global Impact:
-2 Billion Unbanked gaining access to sovereign financial services
-Cultural Sovereignty, respecting local communities and values
-Constitutional Protection for Financial Rights Worldwide
-Open Source AI democratizing financial intelligence with humans in control of registered M5agents
-🛡️ Built on Unbreakable Foundations
-🔒 Security Architecture:
-Gk8 Galaxy uMPC: Unlimited multi-party computation
-Zero Digital Input: Completely unreachable by cybercriminals
-Constitutional Smart Contracts: Rights protection built-in
-Triple Redundancy: Bitcoin Notary + Blockstream Satellite + Lightning UMBA (universal money bank address)
-⚖️ Legal & Compliance:
-Constitutional Grade: Built-in rights protection
-Multi-Jurisdictional: Respecting global sovereignty
-Privacy by Design: Zero data retention where possible
-Regulatory Harmony: Working with governments, not against them
-🌟 Fun Facts About Our Revolutionary M5Team
-🍳 Breakfast of Champions: Our team runs on constitutional coffee and sovereign pancakes
-🧙‍♂️ Magic Power: We believe in the mighty power of Constitutional Markdown
-🎯 Mission Fuel: Every commit brings financial sovereignty to more humans
-🌍 Global Vision: We dream in 1,000+ languages (thanks to M5BankLLM)
-🔗 Quick Links Coming Soon:
-🌐 Website: bankof.me
-📚 Documentation: docs.m5bank.dev
-🤝 Partnerships: partners@m5capital.com
-🚀 Developers: dev@titlechain.foundation
-🌟 Social Impact:
-🌍 Global Community: Join the constitutional finance movement
-💬 Discussions: sovereign-finance.community
-📺 Updates: Follow our journey to financial democracy
-🎓 Education: Free resources for understanding sovereign finance
-📜 License & Values
-M5Bank operates under the Constitutional Open Source License - ensuring that financial sovereignty remains a human right, not a privilege.
-
-Built with ❤️ for humanity's financial freedom
-Powered by constitutional protection and sovereign technology
-Dedicated to the 2 billion unbanked humans worldwide
-
-🏛️ TitleChain Foundation & M5 Capital LLC
-⚖️ Constitutional rights for all, financial sovereignty for everyone
-Remember: This isn't just code—it's the foundation of humanity's financial freedom. Every contribution brings us closer to a world where every human has constitutional-grade financial sovereignty.
-
-Join us in building the future where "BankofMe" means "Banking for All Humanity." 🌍✨
