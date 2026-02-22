@@ -13,7 +13,7 @@
 M5Bank is a sovereign financial infrastructure stack that unifies:
 - **Human-first identity + vault custody**
 - **Tokenized real-world assets + compliant settlement**
-- **ICANN DNS + ENSv2 naming under a single hierarchical standard**
+- **ICANN DNS + ENSv2 naming under a single hierarchical standard + Swift BRIDGE (Blockchain Registry Interbank Digtial Asset Gateway Exchange)**
 - **Registry-backed provenance for identity, assets, and contracts**
 
 Canonical governance, standards, and registry authority:
@@ -24,7 +24,7 @@ Canonical governance, standards, and registry authority:
 ## What This Repo Is
 This repository is the public gateway for:
 - ICSN-aligned standards, templates, and reference implementations
-- ICANN→ENSv2 naming + resolver patterns
+- ICANN→ENSv2 naming + resolver patterns + BRIDGE (Internet 3.0) M5 Economic Gateway 
 - TitleChain registry interfaces (TCID, proof-of-title events, contract provenance)
 - Git3Hub onboarding workflows (public + private contract pools)
 
@@ -70,7 +70,7 @@ We bridge **Web2 identity** (ICANN/DNS) and **Web3 identity** (ENSv2) under one 
 - `username@bankof.me`
 
 **ENS format**
-- `username.bankofme.eth`
+- `username.bankofme.eth`or just name .eth
 
 Both resolve to the same:
 - sovereign vault identity
@@ -88,7 +88,7 @@ ICSN naming is role-based and hierarchical. Authority is explicit at every layer
 **Nation chain**
 - `unitedstateschain.eth`
 - `bhutanchain.eth`
-- `canadachain.eth`
+- `mexicochain.eth`
 
 **State / province chain**
 - `californiachain.eth`
