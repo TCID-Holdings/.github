@@ -14,7 +14,7 @@
 M5Bank is a sovereign financial infrastructure stack that unifies:
 - **Human-first identity + vault custody**
 - **Tokenized real-world assets + compliant settlement**
-- **ICANN DNS + ENSv2 naming under a single hierarchical standard + Swift BRIDGE (Blockchain Registry Interbank Digtial Asset Gateway Exchange)**
+- **ICANN DNS + ENSv2 + CEDECO naming credentails under a single hierarchical standard + Swift BRIDGE (Blockchain Registry Interbank Digtial Asset Gateway Exchange)**
 - **Registry-backed provenance for identity, assets, and contracts**
 
 Canonical governance, standards, and registry authority:
