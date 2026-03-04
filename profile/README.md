@@ -5,7 +5,7 @@
   <img alt="TitleChain" src="https://img.shields.io/badge/TitleChain-Registry%20%2B%20TCID-111827?style=for-the-badge" />
   <img alt="ENSv2" src="https://img.shields.io/badge/ICANN%E2%86%94ENSv2-Universal%20Resolver-111827?style=for-the-badge" />
   <img alt="Ethereum L1" src="https://img.shields.io/badge/Ethereum-L1%20Anchor%20Path-111827?style=for-the-badge" />
-  <img alt="Cedeco" src="https://img.shields.io/badge/Ethereum-L1%20Anchor%20Path-111827?style=for-the-badge" / >
+  <img alt="Cedeco-Certificates" src="https://img.shields.io/badge/Ethereum-L1%20Anchor%20Path-111827?style=for-the-badge" / >
 </p>
 
 # M5Bank & M5Capital Ecosystem
